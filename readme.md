@@ -34,15 +34,3 @@ The project is divided into several Jupyter Notebooks, each focusing on a specif
    - Implements Stochastic Gradient Descent (SGD) for computational efficiency.
    - Shows how updating weights using single/small batches helps the model converge faster while maintaining accuracy.
 
-## 🛠️ Technologies & Libraries Used
-* **Python 3.x**
-* **Data Manipulation:** `pandas`, `numpy`
-* **Machine Learning:** `scikit-learn` (`LinearRegression`, `PolynomialFeatures`, `SGDRegressor`, `StandardScaler`)
-* **Data Visualization:** `matplotlib`, `seaborn`, `plotly` (for interactive 3D graphs)
-
-## 🚀 How to Run the Project
-1. Clone the repository to your local machine.
-2. Ensure you have Jupyter Notebook or JupyterLab installed.
-3. Install the required libraries using pip:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn plotly
